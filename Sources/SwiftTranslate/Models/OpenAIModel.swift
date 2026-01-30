@@ -11,4 +11,5 @@ public enum OpenAIModel: String, ExpressibleByArgument {
     case gpt4_1 = "gpt-4.1"
     case gpt4_1mini = "gpt-4.1-mini"
     case gpt4_1nano = "gpt-4.1-nano"
+    case gpt5_2 = "gpt-5.2"
 }
